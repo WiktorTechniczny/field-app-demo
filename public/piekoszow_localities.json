@@ -1,0 +1,233 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Piekoszów",
+                "type": "miasto",
+                "gmina": "Piekoszów"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [20.4587, 50.8763]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Brynica",
+                "type": "wieś",
+                "gmina": "Piekoszów"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [20.5245, 50.9015]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gałęzice",
+                "type": "wieś",
+                "gmina": "Piekoszów"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [20.4125, 50.8485]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Janów",
+                "type": "wieś",
+                "gmina": "Piekoszów"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [20.5385, 50.8625]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jaworznia",
+                "type": "wieś",
+                "gmina": "Piekoszów"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [20.5165, 50.8515]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Łosień",
+                "type": "wieś",
+                "gmina": "Piekoszów"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [20.3685, 50.8925]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Micigózd",
+                "type": "wieś",
+                "gmina": "Piekoszów"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [20.4285, 50.9125]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rykoszyn",
+                "type": "wieś",
+                "gmina": "Piekoszów"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [20.3925, 50.8685]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wincentów",
+                "type": "wieś",
+                "gmina": "Piekoszów"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [20.43466, 50.88411]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lesica",
+                "type": "wieś",
+                "gmina": "Piekoszów"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [20.36352, 50.86932]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Łaziska",
+                "type": "wieś",
+                "gmina": "Piekoszów"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [20.45924, 50.86322]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Łosienek",
+                "type": "wieś",
+                "gmina": "Piekoszów"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [20.36116, 50.89340]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Łubno",
+                "type": "wieś",
+                "gmina": "Piekoszów"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [20.39127, 50.89678]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Podzamcze",
+                "type": "wieś",
+                "gmina": "Piekoszów"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [20.48567, 50.89433]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Skałka",
+                "type": "wieś",
+                "gmina": "Piekoszów"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [20.38667, 50.85849]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Szczukowice",
+                "type": "wieś",
+                "gmina": "Piekoszów"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [20.50975, 50.88498]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Szczukowskie Górki",
+                "type": "wieś",
+                "gmina": "Piekoszów"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [20.52518, 50.88369]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wesoła",
+                "type": "wieś",
+                "gmina": "Piekoszów"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [20.31509, 50.85686]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zajączków",
+                "type": "wieś",
+                "gmina": "Piekoszów"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [20.34433, 50.85307]
+            }
+        }
+    ]
+}
